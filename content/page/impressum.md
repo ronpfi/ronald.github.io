@@ -15,13 +15,15 @@ Einige Webseiten des Blogs enthalten außerdem Bilder, die dem Copyright Dritter
 Anschrift
 
 Ronald Pfitzer
+
 Karnsberg 42
+
 71540 Murrhardt
 
 E-Mail:  ronald@diepfitzers.de
 
 
-Inhalte
+# Inhalte
 
 Die Inhalte dieser Seiten wurden von uns sorgfältig zusammengestellt und geprüft.
 Wir weisen jedoch darauf hin, dass wir für Abweichungen zu Originaltexten, Aktualität oder Vollständigkeit keine Gewähr übernehmen. Alle Angebote sind freibleibend und unverbindlich.
