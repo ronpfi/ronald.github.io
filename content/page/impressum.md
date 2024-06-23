@@ -10,8 +10,8 @@ showDate: false
 
 © Copyright, Ronald Pfitzer
 
-Alle Rechte vorbehalten. Text, Bilder, Grafiken, Sound, Animationen und Videos sowie deren Anordnung auf Webseiten des Fördervereins Freibad Murrhardt eV. unterliegen dem Schutz des Urheberrechtes und anderer Schutzgesetze. Der Inhalt dieser Webseiten darf nicht zu kommerziellen Zwecken kopiert, verbreitet, verändert oder Dritten zugänglich gemacht werden.
-Einige Webseiten des Fördervereins Freibad Murrhardt eV enthalten außerdem Bilder, die dem Copyright Dritter unterliegen.
+Alle Rechte vorbehalten. Text, Bilder, Grafiken, Sound, Animationen und Videos sowie deren Anordnung auf Webseiten des Blogs unterliegen dem Schutz des Urheberrechtes und anderer Schutzgesetze. Der Inhalt dieser Webseiten darf nicht zu kommerziellen Zwecken kopiert, verbreitet, verändert oder Dritten zugänglich gemacht werden.
+Einige Webseiten des Blogs enthalten außerdem Bilder, die dem Copyright Dritter unterliegen.
 Anschrift
 
 Ronald Pfitzer
