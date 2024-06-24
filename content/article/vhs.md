@@ -1,5 +1,5 @@
 +++
-title = Volkshochschule
+title = 'Volkshochschule'
 date = 2024-06-23T17:14:01+02:00
 draft = false
 +++
