@@ -1,4 +1,3 @@
-languageCode = 'de-DE'
 title = "Mein privater Blog"
 baseURL = "https://example.com/"
 
@@ -14,7 +13,7 @@ baseURL = "https://example.com/"
 enableRobotsTXT = true
 
 # Change to one of your content languages defined at the end.
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -165,25 +164,12 @@ disqusShortname = ""
 # customize your available languages for your multilingual site
 # or delete one of the [languages.xx] blocks to use the theme with only one supported language
 [languages]
-  [languages.de]
-  	contentDir = 'content'
-  	disabled = false
-  	languageCode = 'de-DE'
-  	languageName = 'Deutsch'
-    weight = 1
-    title = "Ronald Pfitzer privater Blog"
-    [languages.de.params]
-      subtitle = "Murrhardt und der Rest der Welt"
- [languages.en]
-    contentDir = 'content/en'
-    disabled = true
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Project Documentation'
+  [languages.en]
     weight = 2
+    title = "Mein cooler neuer Blog"
     [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+      subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
