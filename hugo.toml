@@ -1,5 +1,5 @@
 title = "Mein privater Blog"
-baseURL = "https://example.com/"
+baseURL = "https:ronpfi.github.io"
 
 [module]
   [[module.imports]]
@@ -13,7 +13,7 @@ baseURL = "https://example.com/"
 enableRobotsTXT = true
 
 # Change to one of your content languages defined at the end.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -82,7 +82,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Privater Blog von Ronald Pfitzer"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = ""
@@ -164,11 +164,11 @@ disqusShortname = ""
 # customize your available languages for your multilingual site
 # or delete one of the [languages.xx] blocks to use the theme with only one supported language
 [languages]
-  [languages.en]
+  [languages.de]
     weight = 2
-    title = "Mein cooler neuer Blog"
+    title = "Murrhardt und die Welt"
     [languages.en.params]
-      subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+      subtitle = ""
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
