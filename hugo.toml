@@ -1,5 +1,5 @@
-title = "Blog von Ronald Pfitzer"
-baseURL = "https:ronpfi.github.io"
+title = "Mein privater Blog"
+baseURL = "https://example.com/"
 
 [module]
   [[module.imports]]
@@ -7,7 +7,7 @@ baseURL = "https:ronpfi.github.io"
     path = "github.com/Lednerb/bilberry-hugo-theme/v4"
 
     # Options 2 and 3: cloning/copying the theme files
-    #path = "bilberry-hugo-theme/v4"
+    # path = "bilberry-hugo-theme/v4"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
@@ -82,7 +82,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Privater Blog von Ronald Pfitzer"
+    subtitle = "Hello World! This is the most epic subtitle ever."
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = ""
@@ -166,9 +166,9 @@ disqusShortname = ""
 [languages]
   [languages.en]
     weight = 2
-    title = "Murrhardt und die Welt"
+    title = "Mein cooler neuer Blog"
     [languages.en.params]
-      subtitle = ""
+      subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
