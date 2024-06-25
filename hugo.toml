@@ -173,7 +173,16 @@ disqusShortname = ""
     title = "Ronald Pfitzer privater Blog"
     [languages.de.params]
       subtitle = "Murrhardt und der Rest der Welt"
-
+ [languages.en]
+    contentDir = 'content/en'
+    disabled = true
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
