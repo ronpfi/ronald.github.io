@@ -62,7 +62,7 @@ disqusShortname = ""
   giscusTheme        = "light"
   giscusReactions    = "1"
   giscusEmitMetadata = "0"
-  giscusLanguage     = "en"
+  giscusLanguage     = "de"
   giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
@@ -163,7 +163,7 @@ disqusShortname = ""
 
 # customize your available languages for your multilingual site
 # or delete one of the [languages.xx] blocks to use the theme with only one supported language
-
+[languages]
   [languages.de]
     weight = 2
     title = "Murrhardt und die Welt"
