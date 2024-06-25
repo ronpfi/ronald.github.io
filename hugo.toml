@@ -62,7 +62,7 @@ disqusShortname = ""
   giscusTheme        = "light"
   giscusReactions    = "1"
   giscusEmitMetadata = "0"
-  giscusLanguage     = "de"
+  giscusLanguage     = "en"
   giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
