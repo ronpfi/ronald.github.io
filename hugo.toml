@@ -4,10 +4,10 @@ baseURL = "https:ronpfi.github.io"
 [module]
   [[module.imports]]
     # Option 1 (recommended): adding the theme as a Hugo module
-    #path = "github.com/Lednerb/bilberry-hugo-theme/v4"
+    path = "github.com/Lednerb/bilberry-hugo-theme/v4"
 
     # Options 2 and 3: cloning/copying the theme files
-    path = "bilberry-hugo-theme/v4"
+    #path = "bilberry-hugo-theme/v4"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
