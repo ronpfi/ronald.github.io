@@ -1,5 +1,5 @@
 title = "Mein privater Blog"
-baseURL = "https://ronpfi.github.io"
+baseURL = "https://example.com/"
 
 [module]
   [[module.imports]]
@@ -13,7 +13,7 @@ baseURL = "https://ronpfi.github.io"
 enableRobotsTXT = true
 
 # Change to one of your content languages defined at the end.
-DefaultContentLanguage = "de-de"
+DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -62,7 +62,7 @@ disqusShortname = ""
   giscusTheme        = "light"
   giscusReactions    = "1"
   giscusEmitMetadata = "0"
-  giscusLanguage     = "de"
+  giscusLanguage     = "en"
   giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
@@ -164,10 +164,10 @@ disqusShortname = ""
 # customize your available languages for your multilingual site
 # or delete one of the [languages.xx] blocks to use the theme with only one supported language
 [languages]
-  [languages.de-de]
+  [languages.en]
     weight = 2
     title = "Mein cooler neuer Blog"
-    [languages.de-de.params]
+    [languages.en.params]
       subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
 
 [markup]
