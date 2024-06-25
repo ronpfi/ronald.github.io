@@ -8,11 +8,6 @@ Ich war in den 80er Jahren Zivi an der VHS in Murrhardt – übrigens der zweite in
 
 [Webseite der VHS Murrhardt](https://www.vhs-murrhardt.de/)
 
-[Webseite der VHS Murrhardt](https://www.vhs-murrhardt.de/)
+[Auftrag der Volkshochschulen]( https://www.vhs-profil.de/news/details/51828.der-auftrag-der-volkshochschulen-versuch-einer-interpretation-in-drei-begriffen.html?redir_object_id=51676)
 
-[Webseite der VHS Murrhardt](https://www.vhs-murrhardt.de/)
-
-[Webseite der VHS Murrhardt](https://www.vhs-murrhardt.de/)
-
-[Webseite der VHS Murrhardt](https://www.vhs-murrhardt.de/)
-
+[Volkshochschulen und Esoterik]( https://blog.gwup.net/2024/06/11/volkshochschulen-und-esoterik-bei-skeptics-in-the-pub-koeln/)
