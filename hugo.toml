@@ -13,7 +13,7 @@ baseURL = "https://example.com/"
 enableRobotsTXT = true
 
 # Change to one of your content languages defined at the end.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -164,11 +164,15 @@ disqusShortname = ""
 # customize your available languages for your multilingual site
 # or delete one of the [languages.xx] blocks to use the theme with only one supported language
 [languages]
-  [languages.en]
-    weight = 2
-    title = "Mein cooler neuer Blog"
-    [languages.en.params]
-      subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+  [languages.de]
+  	contentDir = 'content'
+  	disabled = false
+  	languageCode = 'de-DE'
+  	languageName = 'Deutsch'
+    weight = 1
+    title = "Ronald Pfitzer privater Blog"
+    [languages.de.params]
+      subtitle = "Murrhardt und der Rest der Welt"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
