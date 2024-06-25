@@ -1,3 +1,4 @@
+languageCode = 'de-DE'
 title = "Mein privater Blog"
 baseURL = "https://example.com/"
 
