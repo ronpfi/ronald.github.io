@@ -9,6 +9,7 @@ baseURL = "https://example.com/"
     # Options 2 and 3: cloning/copying the theme files
     # path = "bilberry-hugo-theme/v4"
 
+
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
 
