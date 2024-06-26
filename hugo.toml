@@ -138,7 +138,7 @@ disqusShortname = ""
     amountCategoriesInFooter = 7
 
     # show a language chooser in the footer
-    showFooterLanguageChooser = true
+    showFooterLanguageChooser = false
 
     # social media profile urls for the footer links
     showSocialMedia = false
@@ -168,7 +168,7 @@ disqusShortname = ""
 # or delete one of the [languages.xx] blocks to use the theme with only one supported language
 [languages]
   [languages.de]
-    weight = 2
+    weight = 1
     title = "Mein cooler neuer Blog"
     [languages.en.params]
       subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
