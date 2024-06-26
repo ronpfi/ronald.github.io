@@ -1,5 +1,5 @@
 title = "Mein privater Blog"
-baseURL = "https://example.com/"
+baseURL = "https://ronpfi.github.io"
 
 DefaultContentLanguage = "de"
 
@@ -65,7 +65,7 @@ disqusShortname = ""
   giscusTheme        = "light"
   giscusReactions    = "1"
   giscusEmitMetadata = "0"
-  giscusLanguage     = "en"
+  giscusLanguage     = "de"
   giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
@@ -169,9 +169,9 @@ disqusShortname = ""
 [languages]
   [languages.de]
     weight = 1
-    title = "Mein cooler neuer Blog"
+    title = "Ronald Pfitzers privater Blog"
     [languages.en.params]
-      subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+      subtitle = "Murrhardt und der Rest der Welt"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
