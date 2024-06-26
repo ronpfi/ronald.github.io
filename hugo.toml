@@ -170,6 +170,8 @@ disqusShortname = ""
   [languages.de]
     weight = 1
     title = "Ronald Pfitzers privater Blog"
+    languages.de.params]
+      subtitle = "Murrhardt und der Rest der Welt"
     [languages.en.params]
       subtitle = "Murrhardt und der Rest der Welt"
 
