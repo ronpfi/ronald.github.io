@@ -1,6 +1,9 @@
 title = "Mein privater Blog"
 baseURL = "https://example.com/"
 
+DefaultContentLanguage = "de"
+
+
 [module]
   [[module.imports]]
     # Option 1 (recommended): adding the theme as a Hugo module
@@ -14,7 +17,6 @@ baseURL = "https://example.com/"
 enableRobotsTXT = true
 
 # Change to one of your content languages defined at the end.
-DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
 googleAnalytics = ""
@@ -165,7 +167,7 @@ disqusShortname = ""
 # customize your available languages for your multilingual site
 # or delete one of the [languages.xx] blocks to use the theme with only one supported language
 [languages]
-  [languages.en]
+  [languages.de]
     weight = 2
     title = "Mein cooler neuer Blog"
     [languages.en.params]
