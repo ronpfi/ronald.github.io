@@ -85,7 +85,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Murrhardt und der Rest der Welt"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = ""
@@ -104,7 +104,7 @@ disqusShortname = ""
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
