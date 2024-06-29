@@ -10,7 +10,7 @@ Die Murrhardter Zeitung berichtet in der heutigen Ausgabe über die Absicht der 
 [Murrhardt Zeitung vom 29.06.2024](https://www.murrhardter-zeitung.de/nachrichten/denkmalschutz-sticht-solaranlage-247460.html)
 
 
-Dazu ist mir eingefallen, dass ich vor über 20 Jahren Michael Sladek in Schönau besucht hatte, der mir voller Stolz die PV Anlage auf dem Kirchendach in Schönau gezeigt hat. Das Motto war bzw. ist "Bewahrung der Schöpfung".Offenbar handelte es sich um die erste PV-Anlage auf einer denkmalgeschützten Kirche:
+Dazu ist mir eingefallen, dass ich vor über 20 Jahren Michael Sladek in Schönau besucht hatte, der mir voller Stolz die PV Anlage auf dem Kirchendach in Schönau gezeigt hat. Das Motto war bzw. ist "Bewahrung der Schöpfung". Offenbar handelte es sich um die erste PV-Anlage auf einer denkmalgeschützten Kirche:
 
 
 [EWS Schönau - das neue "Schöpfungsfenster"](https://www.ews-schoenau.de/blog/artikel/das-neue-schoepfungsfenster/)
