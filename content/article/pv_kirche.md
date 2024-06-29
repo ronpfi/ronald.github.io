@@ -3,6 +3,7 @@ title = 'Photovoltaik auf der Stadtkirche'
 date = 2024-06-29T16:28:24+02:00
 draft = false
 +++
+![Stadtkirche Murrhardt](../../stadtkirche.png)
 ###### Aktuelles:
 Die Murrhardter Zeitung berichtet in der heutigen Ausgabe über die Absicht der Evangelischen Kirchengemeinde in Murrhardt auf dem Dach der Stadtkirche eine Photovoltaikanlage zu installieren unter der Überschrift "Denkmalschutz sticht Solaranlage": 
 
